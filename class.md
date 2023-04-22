@@ -1,4 +1,4 @@
-First Name: Suliman
+First Name: Suliaman
 
 Location: Liberia
 
